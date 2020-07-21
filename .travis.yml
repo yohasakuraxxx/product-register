@@ -17,3 +17,4 @@ deploy:
     heroku run --app $HEROKU_APP_NAME rails db:migrate;
   on:
     branch: master
+    #aaa
